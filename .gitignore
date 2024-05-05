@@ -1,5 +1,13 @@
-*.class
-*.log
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+.DS_Store
+*.vscode*
+*.metals*
+*.bloop*
+input/*
+*.idea*
+train_data/
+test_data/
+target/*
+output/*
+train_input/*
+test_input/*
+*.jar
